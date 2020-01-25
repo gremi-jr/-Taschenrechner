@@ -18,3 +18,12 @@ D:\1_Computer\1.5_Programmieren\1.5.2_C#\Visual Studio\Praktikum\Taschenrechner\
 D:\1_Computer\1.5_Programmieren\1.5.2_C#\Visual Studio\Praktikum\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
 D:\1_Computer\1.5_Programmieren\1.5.2_C#\Visual Studio\Praktikum\Taschenrechner\Taschenrechner\obj\Debug\PraktikantWindows.exe
 D:\1_Computer\1.5_Programmieren\1.5.2_C#\Visual Studio\Praktikum\Taschenrechner\Taschenrechner\obj\Debug\PraktikantWindows.pdb
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\PraktikantWindows.exe.config
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\PraktikantWindows.exe
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\bin\Debug\PraktikantWindows.pdb
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csprojAssemblyReference.cache
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.Form1.resources
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\PraktikantWindows.Properties.Resources.resources
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\PraktikantWindows.exe
+D:\2_Computer\1.7_Proggen\01_C#\Taschenrechner\Taschenrechner\Taschenrechner\obj\Debug\PraktikantWindows.pdb
